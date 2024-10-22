@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-<h1>Letta (previously MemGPT)</h1>
+<h1>Letta</h1>
 
 <h3>
 

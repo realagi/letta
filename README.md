@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-<h1>Letta</h1>
+<h1>Letta (Real AGI Flavored)</h1>
 
 <h3>
 
